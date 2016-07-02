@@ -1,0 +1,10 @@
+No. 5
+  In the first program, `x` prints 3 to the screen.
+  In the second program, `x` does not print anything to the screen. Instead it
+      gives an error that lets us know that `x` is a method or 'variable' that
+      is either undefined or is not available at the current scope.
+
+
+No. 6
+  The error tells us that we've tried to reference a variable or method `shoes`
+    that is either undefined or is not available at the current scope.
